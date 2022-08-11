@@ -276,7 +276,6 @@ class OAuthProviderButton extends StatelessWidget with SignInWithOAuthProviderMi
               ],
             ),
           ),
-          const _ErrorListener(),
         ],
       ),
     );
